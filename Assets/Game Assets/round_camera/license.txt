@@ -1,0 +1,11 @@
+Model Information:
+* title:	Round Camera
+* source:	https://sketchfab.com/3d-models/round-camera-481837c1f6cb43debcc0cfa9bbaa33df
+* author:	inter_net (https://sketchfab.com/inter_net)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Round Camera" (https://sketchfab.com/3d-models/round-camera-481837c1f6cb43debcc0cfa9bbaa33df) by inter_net (https://sketchfab.com/inter_net) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

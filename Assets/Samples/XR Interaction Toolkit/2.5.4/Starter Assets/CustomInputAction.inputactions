@@ -1,0 +1,114 @@
+{
+    "name": "CustomInputAction",
+    "maps": [
+        {
+            "name": "Pause Menu",
+            "id": "b2b9e07a-9cd5-4309-b949-e1369178afd0",
+            "actions": [
+                {
+                    "name": "PauseMenuPressed",
+                    "type": "Button",
+                    "id": "9bd366f4-62c1-457e-aae7-f642140248ea",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "F pressed",
+                    "type": "Button",
+                    "id": "755388ac-9dc0-4252-9168-0847c614ce4f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "E pressed",
+                    "type": "Button",
+                    "id": "281c6baf-b190-4065-bf7f-39c51379a50d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Mouse 0 Pressed",
+                    "type": "Button",
+                    "id": "e1e51af1-ac3b-478a-8afc-21361e30c859",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "B pressed",
+                    "type": "Button",
+                    "id": "caba1cbd-9ee0-43aa-8f1a-ede85e001b1c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d1f57b8e-a180-42fd-86b0-6b8e8dbe1406",
+                    "path": "<OculusTouchController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PauseMenuPressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "01937edb-a91b-46c2-a594-f9c4aed803b6",
+                    "path": "<OculusTouchController>{LeftHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "F pressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e2663962-d169-4768-b8ec-08a9d077085e",
+                    "path": "<OculusTouchController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "E pressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "17aa41dc-bb47-49bc-90ce-14dd58b15030",
+                    "path": "<OculusTouchController>{RightHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse 0 Pressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "81c37579-f7b3-49a6-9d61-8f1193c0c75b",
+                    "path": "<OculusTouchController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "B pressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

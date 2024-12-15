@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 99fe8110c31770f4fb9b55c04d26de46
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ardoise_002_Room_Entity_Material
+    second: {fileID: 2100000, guid: 51e60f9366d1e8b48977e4f4f13ec9a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: armoire_002___wood_armoire
+    second: {fileID: 2100000, guid: ef506837d34153144a4f418690c5d227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: armoire_004___armoire_004wood_meuble
+    second: {fileID: 2100000, guid: 8c385eb5e8a6aa249bc663463852cef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beige_004_Wall_Entity_Material
+    second: {fileID: 2100000, guid: a750177c6c14e0940919934a2b09da59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beige_006_Wall_Entity_Material
+    second: {fileID: 2100000, guid: b89113e09bde3e64fa295e8d21d4522c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blanc_001_Room_Entity_Material
+    second: {fileID: 2100000, guid: a137f273a7a775b41a31a6807e7c9d8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blanc_001_Wall_Entity_Material
+    second: {fileID: 2100000, guid: aee882f14dd0fa74d8dfe22bd22bf432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bleu_001_Wall_Entity_Material
+    second: {fileID: 2100000, guid: 436e3e4c073678746bdf33243ed4ca12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bleu_002_Wall_Entity_Material
+    second: {fileID: 2100000, guid: 33c5c9fcb8eb7484bb5f9f622196325b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bois_023_Room_Entity_Material
+    second: {fileID: 2100000, guid: 81ae256334d524942b8f5ad25e2f9f77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bois_079_Room_Entity_Material
+    second: {fileID: 2100000, guid: a66e0a94feba0af46abae08858c04640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brique_013_Wall_Entity_Material
+    second: {fileID: 2100000, guid: e0f9fd2ed6a96e141b06567667c43e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brique_015_Room_Entity_Material
+    second: {fileID: 2100000, guid: 94add47a9e25f4542ae1c9f41f79ca63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brique_015_Wall_Entity_Material
+    second: {fileID: 2100000, guid: ad57bb6f463f9f04b811968b2fe78b16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabane_dans_les_arbres___cabane_dans_les_arbrescabane_dans_les_
+    second: {fileID: 2100000, guid: 11cceface720c0b4b9c0ea329bf57756, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: canape_010___mat_cuir008_bissg
+    second: {fileID: 2100000, guid: a079803c7e20c674096acb0e95e3e315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: canape_010___mat_tissus091sg
+    second: {fileID: 2100000, guid: 5d909d79c933b48478a54e34b0404b58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carrelage_005_Room_Entity_Material
+    second: {fileID: 2100000, guid: 7f3263d0071c6024d9118b8aa5c316b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carrelage_013_Room_Entity_Material
+    second: {fileID: 2100000, guid: fa8e1c0fcfa65fe48ad7628ec5c659d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carrelage_053_Wall_Entity_Material
+    second: {fileID: 2100000, guid: 53669eda0c06a934cb47f3104768e0ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cerisier_002____cerisier_002cerisier_cerisier_feuilles
+    second: {fileID: 2100000, guid: ef5bb42f91681cd44a69a577083ce8b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crape_myrtle___crape_myrtle_fleurs
+    second: {fileID: 2100000, guid: e39aab62f657dc74ba5f2ff3ebaaf2fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuisine_ilot_002___mat_bois
+    second: {fileID: 2100000, guid: a1187574b761ab34286ec31d5780f42e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuisine_ilot_002___mat_marbre
+    second: {fileID: 2100000, guid: fe1982b867afa8b458a04529a9adb1d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuisine_rangement_001____cuisine_rangement_001_cuisine_rang
+    second: {fileID: 2100000, guid: b3c060ec195fceb4189eb06e34661755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuisine_rangement_001____cuisine_rangement_001_cuisine_rang.001
+    second: {fileID: 2100000, guid: 4645e620673e6254e98fc535e2398482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuisine_rangement_001____cuisine_rangement_001_cuisine_rang.002
+    second: {fileID: 2100000, guid: dfc72588b86e906439eb9949724d3598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuisine_rangement_001____cuisine_rangement_001_cuisine_rangemen
+    second: {fileID: 2100000, guid: ab4258d3baa49c6438fd3f55792a9795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: desserte_lit___desserte_lit_mauve
+    second: {fileID: 2100000, guid: 0918384a676e9834588a8d0f583d2fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: desserte_lit___desserte_lit_rose
+    second: {fileID: 2100000, guid: 459d9f869b40edb42b0ba6d3cb523906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: douche_italienne_001____douche_italienne_001douche_italienne_00
+    second: {fileID: 2100000, guid: c33486f66feb0234caf68dce27cba16e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eames_chair_dining_1_bis___mat_chair_dining_1_biswood
+    second: {fileID: 2100000, guid: ad15b6063db8b404aaaa3f5968ef818a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: echelle_sdb____bouchon
+    second: {fileID: 2100000, guid: 0cee06d607ef2944087f81a37790aae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: echelle_sdb____porte_savon
+    second: {fileID: 2100000, guid: a7b70d8e5f0181e4db24ed0ec8dd53e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: echelle_sdb___echelle_sdb_brun
+    second: {fileID: 2100000, guid: 81051e932cd121d4fb9d9721d9e55ae8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: echelle_sdb___serviette_beige
+    second: {fileID: 2100000, guid: 375b45255f1349e48807a8454a18171d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: echelle_sdb___serviette_bleue
+    second: {fileID: 2100000, guid: 778c1745dd2cdea459c89c82f9eefcff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: echelle_sdb___serviette_brune
+    second: {fileID: 2100000, guid: e63db2623a5bb9c47b4d61e9f9289d47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: enduit_004_Room_Entity_Material
+    second: {fileID: 2100000, guid: aaca4e8664722b74f9c08af0809442e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: enduit_004_Wall_Entity_Material
+    second: {fileID: 2100000, guid: a38938dbc76c12f4b9ef10dd44e37b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escalier_2m70_verre_001___mat_bois040sg
+    second: {fileID: 2100000, guid: 5d48d1d5d290e3140aadd72dda16db60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: faience_006_Room_Entity_Material
+    second: {fileID: 2100000, guid: 1094a6e97f2f14643b42122d946b30e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_136_134_131_255
+    second: {fileID: 2100000, guid: 602db0c9897dc6f4a8fc47edec6d7b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_162_108_67_255
+    second: {fileID: 2100000, guid: 552bd874cd5846b4e98c37cf6f7660da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_166_29_27_255
+    second: {fileID: 2100000, guid: 9e61796bddb597f4ca207d8999f4b9f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_196_192_191_255
+    second: {fileID: 2100000, guid: b6186bf9225eb414c8e5521e6a170de8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_223_207_170_255
+    second: {fileID: 2100000, guid: c4b92fd9026a9d0458cd0d3c439607e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_223_207_170_255.001
+    second: {fileID: 2100000, guid: c72c0310cdfc9204281b4baca3f686be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_223_207_170_255.002
+    second: {fileID: 2100000, guid: fe2120854660d2741a7a9a9d9c89cc61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_234_240_238_255
+    second: {fileID: 2100000, guid: 3137cfcb6e182594f8406e8ff83c5679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_239_155_33_255
+    second: {fileID: 2100000, guid: 67d11bd3fbdc21e4b84b5420ebfbf5c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_242_57_8_255
+    second: {fileID: 2100000, guid: ef103724773809d4b930c468751fb961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_255_255_255_32
+    second: {fileID: 2100000, guid: a31dcfa4ca2a9b94f9f362b948c55aac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_39_77_41_255
+    second: {fileID: 2100000, guid: 7394c350cab2cf44e94736ea07373dc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_42_43_45_255
+    second: {fileID: 2100000, guid: ef7f4b2a955fc0e4992316e431dcb8e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_51_157_180_255
+    second: {fileID: 2100000, guid: 7278c82e33a802f4496095254105fd7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_7_7_7_255
+    second: {fileID: 2100000, guid: 2c751fdaa51265d46994d396dedd22e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_85_99_208_255
+    second: {fileID: 2100000, guid: 9b7103d680d533f4c86a266df2d660be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_86_41_43_255
+    second: {fileID: 2100000, guid: 359141af29ccd3342ad0df9ef96e459f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_88_162_45_255
+    second: {fileID: 2100000, guid: effee2bf199453243b629e4080cc132c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fake_mat_98_92_89_255
+    second: {fileID: 2100000, guid: 82b0c772db0d8834e947630769038001, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frene____frenefeuilles1
+    second: {fileID: 2100000, guid: f25bd7d52861eb64989adaa178c4198a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: generatrice_portable___generatrice_portable_ventilateur
+    second: {fileID: 2100000, guid: 9c96d61209851594ca9d093e294b0263, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground_herbe_2_Room_Entity_Material
+    second: {fileID: 2100000, guid: 90b54019cabb65749aa2bf020020d117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lave_linge_001___phong1sg
+    second: {fileID: 2100000, guid: f9a330ea6e133e54fb018fa376a0a2c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lit_013___mat_tissus022sg
+    second: {fileID: 2100000, guid: a12d40ad52f36d14fb2e620aa804ed89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lit_013___mat_tissus057_2sg
+    second: {fileID: 2100000, guid: 15fd158a0c8ef274bbe3dad5112c2054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lit_013___mat_tissus095sg
+    second: {fileID: 2100000, guid: a35e9b9e61332c44981f0638011c5f71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: magnolia___magnolia_magnolia_fleur
+    second: {fileID: 2100000, guid: 2a3730cbd84a1264cbfe5c5916ae59da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marbre_006_Room_Entity_Material
+    second: {fileID: 2100000, guid: 096664dabefa40b4b95dc246fa675b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marbre_motif_Room_Entity_Material
+    second: {fileID: 2100000, guid: 5cdca0919531e8b48b769ab5591ede0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meuble_avec_vasque____bois_00
+    second: {fileID: 2100000, guid: 1d0af5ab0a9ceb24a894d84f73603e9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meuble_avec_vasque___metal
+    second: {fileID: 2100000, guid: 8fc2e238783146a4a89072632e189300, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: miroir_sdb___mat_miroir_miroir
+    second: {fileID: 2100000, guid: ca160ac8e7424674dbebb3b258013cc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moquette_019_Room_Entity_Material
+    second: {fileID: 2100000, guid: 184a1dce8331dd241ad444f02bd69160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pack_003_buanderie_panier___linge1
+    second: {fileID: 2100000, guid: 3bece532b32661a4488a71e9890ef291, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pack_003_buanderie_panier___linge2
+    second: {fileID: 2100000, guid: 5f590ca231ae2b2409951e6e617a5e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pack_003_buanderie_panier___linge3
+    second: {fileID: 2100000, guid: 091c5fc6fa8e7394c8e7dc52dbbc2853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pack_003_buanderie_panier___linge4
+    second: {fileID: 2100000, guid: 9b37a9b2fe28e1944a8550c2a738072f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pack_003_buanderie_panier___osier
+    second: {fileID: 2100000, guid: 6b013476066982f4190362e656d67ca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pack_003_buanderie_panier___tissu
+    second: {fileID: 2100000, guid: 71afdb5c5d9f31d4085da4290210e8cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pack_003_salon_haut_parleur___nopaint_enceinte
+    second: {fileID: 2100000, guid: b09c43839a256394ab0f66b05f1099e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pack_003_salon_television___material__80_1
+    second: {fileID: 2100000, guid: 7161341d327864b4aa9edaa2e24fb930, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pack_003_salon_television___material__81
+    second: {fileID: 2100000, guid: 67e002a54e21c1b4f95c42201e5fd36f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papier_peint_022_Wall_Entity_Material
+    second: {fileID: 2100000, guid: 22132a3f2d2261e4a916a18adc5008aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papier_peint_025_ovcol303030colpic12contpic08_Wall_Entity_Mater
+    second: {fileID: 2100000, guid: 066e828d15a38494b84fce47e6821efa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papier_peint_039_Wall_Entity_Material
+    second: {fileID: 2100000, guid: bbc9109ebae3eaf40b44dceb62003846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papier_peint_049_ovcol6b2e62colpic02contpic09_Wall_Entity_Mater
+    second: {fileID: 2100000, guid: 026cd5578de57784586666227c478f9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papier_peint_076_Room_Entity_Material
+    second: {fileID: 2100000, guid: 5752a6a5a2a06864cb91c1b451361457, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papier_peint_076_Wall_Entity_Material
+    second: {fileID: 2100000, guid: 601e7a083f65c8747952db11d4f82fbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paves_ext_003_Room_Entity_Material
+    second: {fileID: 2100000, guid: 84dde5e87c5405e4fb11b3706b82094e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pierres_004_Wall_Entity_Material
+    second: {fileID: 2100000, guid: 0ca909e6c7248834ca257984ed64bee2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pierres_006_Wall_Entity_Material
+    second: {fileID: 2100000, guid: b16f2c19206d50a47b6a736fdc6e7a24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piscine_001___piscine_001eau3sg
+    second: {fileID: 2100000, guid: ca977e57ae055ab4fbd42a9d58f852e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porte_020___mat_bois083sg
+    second: {fileID: 2100000, guid: ee4509890f2fe4e488b65b0bae09d889, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seche_linge_002___sechelinge
+    second: {fileID: 2100000, guid: 58c18671384c22940aa6e059ccc55d73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_basse_019___mat_magasine1sg
+    second: {fileID: 2100000, guid: a6fbc96293cc80c40993b40b740c6fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_chevet_001___boisnoir
+    second: {fileID: 2100000, guid: a695aa1674277b24ea096d3176145fd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_chevet_001___livrerouge
+    second: {fileID: 2100000, guid: a5ecca212bfa0a340b839fabac38763e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: terre_001_Room_Entity_Material
+    second: {fileID: 2100000, guid: baec1d417857b8c4794560f7d2050b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tex_bois_blanc_Room_Entity_Material
+    second: {fileID: 2100000, guid: 25c468362c15f37459e69625403850cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: volets_002_____mat_bois059sg1
+    second: {fileID: 2100000, guid: f2428e8b4c47ceb468db447b38b9546c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 2
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

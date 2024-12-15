@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75818ca1b3dea8449986eae6792bc80f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - intactMug: {instanceID: 0}
+  - brokenMug: {instanceID: 0}
+  - cupPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

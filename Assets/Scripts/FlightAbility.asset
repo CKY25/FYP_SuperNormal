@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 214584871c1dd384eb5bcb07e1e14f5c, type: 3}
+  m_Name: FlightAbility
+  m_EditorClassIdentifier: 
+  name: Flight
+  cdTime: 10
+  activeTime: 0
+  wingFlapSound: {fileID: 8300000, guid: b399b77d891445341a06ef2ea9210477, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 974374859d558ab45b80e7e2f5c4d735, type: 3}
+  m_Name: ThermalGlassAbility
+  m_EditorClassIdentifier: 
+  name: ThermalGlass
+  cdTime: 30
+  activeTime: 5
+  specPrefab: {fileID: 2644855684785415082, guid: 7c4e2f6fc2e5b0b4a8c2be06bacc61d9,
+    type: 3}
+  thermalMaterial: {fileID: 2100000, guid: f0a0206f02c91944a9b0a8480fa4ee44, type: 2}
