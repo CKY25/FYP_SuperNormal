@@ -14,4 +14,6 @@ Strength:</br>
 Weakness:</br>
 ⦁ Game still have some bugs especially NPCs behaviours.
 
+Here is the game build link: https://drive.google.com/file/d/1HOxoJP_6YWuadVloHuAOr1UUfQ-T1jkN/view?usp=sharing
+
 Anyways, this final year project took me only 3 months to develop so it is not so perfect as there are still rooms for improvements such as fixing all the bugs and polishing. Any suggestions are appreciated ;)
