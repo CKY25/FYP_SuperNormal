@@ -14,6 +14,8 @@ Strength:</br>
 Weakness:</br>
 ⦁ Game still have some bugs especially NPCs behaviours.
 
-Here is the game build link: https://drive.google.com/file/d/1HOxoJP_6YWuadVloHuAOr1UUfQ-T1jkN/view?usp=sharing
+Here is the game build link: https://drive.google.com/file/d/1HOxoJP_6YWuadVloHuAOr1UUfQ-T1jkN/view?usp=sharing </br>
+PC Video demo: https://drive.google.com/file/d/1OfuQ7lDfpvYRITYy9ScwqCbWgK09X6O6/view?usp=sharing </br>
+VR Video demo: https://drive.google.com/file/d/1mLN6Zm8J9VxhfeVVuOtWNsl2yAxApawJ/view?usp=sharing </br>
 
 Anyways, this final year project took me only 3 months to develop so it is not so perfect as there are still rooms for improvements such as fixing all the bugs and polishing. Any suggestions are appreciated ;)
